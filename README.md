@@ -47,6 +47,9 @@ I am passionate about data. I have a background in economics, quantitative finan
 - **[Université Numérique Cheikh Hamidou Kane / Data Analysis](https://drive.google.com/file/d/1mz4ERMRpY_WGvKQna0KPz-soSQA3U1hs/view?usp=sharing)**  
   March 2024, Online
 
+- **[MICROSOFT / Deploy and Maintain Power BI Assets and Capstone project](https://coursera.org/verify/1C1C3GXZUGV7)**  
+  September 2025, Online
+
 ## 💼 Experience
 
 - **Data Analyst Intern**  
@@ -64,7 +67,7 @@ I am passionate about data. I have a background in economics, quantitative finan
 - **Master's Thesis: ["The Efficiency of Public Health Spending in Senegal"](https://github.com/losdame/Publication/blob/a28a453377ccd03d25e884e9495dd3cc6766f274/L'efficience%20des%20d%C3%A9penses%20publiques%20de%20sant%C3%A9%20au%20S%C3%A9n%C3%A9gal.pdf)**  
   Faculty of Economic Sciences and Management (FASEG), UCAD  
   August 2024
-- **Article: ["Loan Approved"](https://github.com/losdame/Publication/blob/a28a453377ccd03d25e884e9495dd3cc6766f274/Evaluation%20comparative%20de%20mod%C3%A8les%20d'apprentissage%20automatique.pdf)**  
+- **Article (not yet published): ["Loan Approved"](https://github.com/losdame/Publication/blob/a28a453377ccd03d25e884e9495dd3cc6766f274/Evaluation%20comparative%20de%20mod%C3%A8les%20d'apprentissage%20automatique.pdf)**  
 ## 📫 Contact
 
 Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/serigne-dame-lo-44a428214/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B8hH%2BNmdWSDORdlO528WEAQ%3D%3D) or [email](mailto:your.loserignedame9@gmail.com).
